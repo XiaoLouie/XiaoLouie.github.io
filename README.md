@@ -8,7 +8,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/akiritsu/pRoJEct-VeXEd">
+  <a href="https://github.com/XiaoLouie/Xiaolouie.github.ioa">
     <img src="src/assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,7 +19,7 @@
     pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
     <br />
     <br />
-    <a href="https://akiritsu.github.io/pRoJEct-VeXEd/">View Demo</a>
+    <a href="https://github.com/XiaoLouie/Xiaolouie.github.io">View Demo</a>
     ·
     <a href="https://github.com/akiritsu/pRoJEct-VeXEd/issues">Report Bug</a>
     ·
@@ -231,19 +231,3 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-<!-- CONTACT -->
-## Contact
-
-DeerRIDER - [Email](mailto://deerrider666@outlook.com)
-
-Project Link: [https://github.com/akiritsu/pRoJEct-VeXEd](https://github.com/akiritsu/pRoJEct-VeXEd)
-
-[forks-shield]: https://img.shields.io/github/forks/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[forks-url]: https://github.com/akiritsu/pRoJEct-VeXEd/network/members
-[stars-shield]: https://img.shields.io/github/stars/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[stars-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/stargazers
-[issues-shield]: https://img.shields.io/github/issues/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[issues-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/issues
-[license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[license-url]: https://https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.txt
